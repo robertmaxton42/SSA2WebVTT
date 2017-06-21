@@ -1,1 +1,6 @@
 source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+
+nuget FParsec >= 1.0.2
+nuget FParsec-Pipes >= 0.3.1
