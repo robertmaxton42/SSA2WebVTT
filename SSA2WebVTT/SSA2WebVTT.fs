@@ -1,4 +1,4 @@
-module SSA2WebVTT
+module SSA2WebVTT.Main
 
 [<EntryPoint>]
 let main argv =
